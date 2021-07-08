@@ -10,7 +10,7 @@ public class ApiProvaApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ApiProvaApplication.class, args);
-		System.out.println("porta:1002");
+		System.out.println("porta:2020");
 
 		
 	}
